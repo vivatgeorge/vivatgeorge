@@ -2,13 +2,25 @@
     {
         "id": 1,
         "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
+        "description": "Лабораторная 4",
         "preview": "img/use-case-diagram.png"
     },
     {
         "id": 2,
         "title": "UML Class",
-        "description": "Диаграмма классов",
+        "description": "Лабораторная 5",
         "preview": "img/class-diagram.png"
-    }
+    },
+    {
+        "id": 1,
+        "title": "UML Use Case",
+        "description": "Лабораторная 6",
+        "preview": "img/use-case-diagram.png"
+    },
+    {
+        "id": 1,
+        "title": "UML Use Case",
+        "description": "Лабораторная 7",
+        "preview": "img/use-case-diagram.png"
+    },
 ]
