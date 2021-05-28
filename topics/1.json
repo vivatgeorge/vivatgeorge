@@ -32,7 +32,19 @@
         },
         {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "img/4d.png"
+        },
+        {
+            "type": "image",
+            "data": "img/5d.png"
+        },
+        {
+            "type": "image",
+            "data": "img/6d.png"
+        },
+        {
+            "type": "image",
+            "data": "img/7d.png"
         },
         {
             "type": "text",
