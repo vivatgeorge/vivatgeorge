@@ -35,16 +35,48 @@
             "data": "img/4d.png"
         },
         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ЛАБОРАТОРНАЯ 4"
+                }
+            ]
+        },
+        {
             "type": "image",
             "data": "img/5d.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ЛАБОРАТОРНАЯ 5"
+                }
+            ]
         },
         {
             "type": "image",
             "data": "img/6d.png"
         },
         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ЛАБОРАТОРНАЯ 6"
+                }
+            ]
+        },
+        {
             "type": "image",
             "data": "img/7d.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ЛАБОРАТОРНАЯ 7"
+                }
+            ]
         },
         {
             "type": "text",
