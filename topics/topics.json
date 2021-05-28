@@ -1,14 +1,9 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
+        "title": "UML ",
         "description": "Лабораторные работы",
         "preview": "img/use-case-diagram.png"
     },
-    {
-        "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
-    }
+    
 ]
