@@ -1,9 +1,14 @@
 [
     {
         "id": 1,
-        "title": "UML ",
+        "title": "Лабораторные работы",
         "description": "Лабораторные работы",
         "preview": "img/use-case-diagram.png"
     },
-    
+    {
+        "id": 2,
+        "title": "UML",
+        "description": "1",
+        "preview": "img/class-diagram.png"
+    }
 ]
